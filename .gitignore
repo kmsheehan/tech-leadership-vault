@@ -3,6 +3,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
+# Plugin files (re-downloadable)
+.obsidian/plugins/
+
 # System files
 .DS_Store
 Thumbs.db

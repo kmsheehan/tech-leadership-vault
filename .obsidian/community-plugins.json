@@ -3,5 +3,9 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "remotely-save",
+  "obsidian-outliner",
+  "obsidian-importer"
 ]
